@@ -1,1 +1,1 @@
-My inspiration is M S Dhoni
+echo "My inspiration is M S Dhoni"
